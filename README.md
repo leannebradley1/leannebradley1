@@ -11,13 +11,16 @@ Recruiter on Salesforce's **Futureforce** team (university & early-careers hirin
 
 ### More Dublin-based opportunities
 
-- **[AI Builder, Emerging Talent - UK & Ireland Market - Dublin](https://careers.salesforce.com/en/jobs/jr341824/ai-builder-emerging-talent-uk-ireland-market/)**
+- **AI Builder, Emerging Talent - UK & Ireland Market - Dublin** - Coming soon
 - **Sales Development Representative (SDR) - Dublin** - Coming soon
 
-### Internships & all EMEA roles
+### Internships
 
 - **Dublin summer internships** - Coming soon
-- **Every Futureforce EMEA role** - [Salesforce University Recruiting](https://www.salesforce.com/company/careers/university/)
+
+## 🌐 Explore Futureforce roles
+
+Find open roles across EMEA: [Salesforce University Recruiting](https://www.salesforce.com/company/careers/university/)
 
 ## 📬 Connect with me
 
