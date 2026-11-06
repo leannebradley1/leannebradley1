@@ -7,7 +7,7 @@ Recruiter on Salesforce's **Futureforce** team (university & early-careers hirin
 ### 🔥 Now open: UKI market
 
 - **[Commercial Graduate Rotation Program - Sales Path (English-speaking market) - Dublin](https://www.salesforce.com/company/careers/jobs/JR363190/commercial-graduate-program-sales-path-english-speaking-market/)**
-  A 12-month graduate program based at Salesforce's Dublin HQ, rotating across Sales and Solution Engineering: real customers, real targets, and two clear career paths (Sales: SDR → BDR → AE, or Solution Engineering). Interviews kick off the week starting 9 November - apply now. We're proactively seeking candidates with a technical background, including 2025 and 2026 graduates from tech or data degrees, who are customer-focused, product-adoption and solution-minded, and commercially savvy.
+  A 12-month graduate program based at Salesforce's Dublin HQ, rotating across Sales: real customers, real targets, and a clear career path from SDR → BDR → AE. Interviews kick off the week starting 9 November - apply now. We're proactively seeking candidates with a technical background, including 2025 and 2026 graduates from tech or data degrees, who are customer-focused, product-adoption and solution-minded, and commercially savvy.
 
 ### More Dublin-based opportunities
 
